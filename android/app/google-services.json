@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "967056491714",
+    "project_id": "nextjs-app-9fa32",
+    "storage_bucket": "nextjs-app-9fa32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967056491714:android:f8f40381c1ad8dd80b675b",
+        "android_client_info": {
+          "package_name": "com.vaishuu.expowebviewfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967056491714-a0bdqqaucnlvf3u7gd5emelttka6la2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFtkYi2UgIV1HHVMBkYVntvG-OYdZDy_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967056491714-a0bdqqaucnlvf3u7gd5emelttka6la2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967056491714:android:5d6ed3efeb679d6b0b675b",
+        "android_client_info": {
+          "package_name": "com.vaishuu.googlesignupexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967056491714-a0bdqqaucnlvf3u7gd5emelttka6la2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFtkYi2UgIV1HHVMBkYVntvG-OYdZDy_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967056491714-a0bdqqaucnlvf3u7gd5emelttka6la2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
