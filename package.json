@@ -1,0 +1,16 @@
+{
+  "name": "push-notification-server",
+  "version": "1.0.0",
+  "main": "sendPush.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "firebase-admin": "^13.4.0"
+  }
+}
