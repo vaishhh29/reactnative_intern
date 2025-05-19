@@ -5,6 +5,6 @@
 2. Configure **Firebase Authentication** (Google Sign-In enabled).
 3. Deploy the app publicly (e.g. Vercel or Netlify).
 4. This will serve as the frontend for both web and mobile.
-
+5.The code is in src/app/page.js
 ---
 Give npm run dev
